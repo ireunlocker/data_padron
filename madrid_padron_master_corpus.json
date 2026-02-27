@@ -71,6 +71,14 @@
         {
           "p": "¿Cuál es el plazo para aportar consentimientos en la solicitud online?",
           "r": "Las personas que deban aportar consentimiento tienen 5 días naturales. Si no lo hacen, la solicitud será cancelada automáticamente."
+        },
+        {
+          "p": "¿Puedo solicitar que me envíen el volante o certificado por correo postal?",
+          "r": "Sí. Si no dispones de identificación electrónica y no quieres acudir en persona, puedes solicitar el envío a tu domicilio empadronado llamando al 010 (desde Madrid) o al 914 800 010, o a través del portal web municipal. Es totalmente gratuito."
+        },
+        {
+          "p": "¿Se puede obtener el certificado en quioscos o cajeros automáticos?",
+          "r": "No. Actualmente el Ayuntamiento de Madrid no permite la obtención directa de documentos del padrón en quioscos o cajeros. Debes usar los canales oficiales: en línea, presencial con cita, teléfono o chat."
         }
       ]
     },
