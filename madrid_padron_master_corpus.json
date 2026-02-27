@@ -4,6 +4,27 @@
   "version": "1.0",
   "faq_corpus": [
     {
+      "categoria": "Propósito e Integraciones (¿Para qué sirve?)",
+      "items": [
+        {
+          "p": "¿Para qué trámites necesito el empadronamiento?",
+          "r": "Es necesario para la Tarjeta Sanitaria, escolarización de menores, solicitar el SER (aparcamiento), acceder a becas, ayudas sociales y solicitar Vivienda de Protección Oficial (VPO)."
+        },
+        {
+          "p": "¿Cómo obtengo la Tarjeta Sanitaria con el Padrón?",
+          "r": "Estar empadronado es requisito indispensable. Una vez empadronado, debes acudir a tu Centro de Salud para solicitar la tarjeta. El sistema de salud puede verificar tus datos del Padrón automáticamente si lo autorizas."
+        },
+        {
+          "p": "¿El trámite de empadronamiento tiene algún coste?",
+          "r": "No, el trámite y la expedición de volantes/certificados por parte del Ayuntamiento de Madrid son 100% gratuitos. Desconfía de sitios externos que cobren por gestionar este trámite."
+        },
+        {
+          "p": "¿Cuál es la diferencia entre Volante y Certificado?",
+          "r": "El Volante es meramente informativo (colegios, ayudas). El Certificado es un documento oficial con firma, necesario para procesos judiciales, notarías o herencias."
+        }
+      ]
+    },
+    {
       "categoria": "Conceptos Básicos y Obligaciones",
       "items": [
         {
@@ -216,11 +237,11 @@
       "items": [
         {
           "p": "¿Dónde está la oficina Oficina Auxiliar de Atención a la Ciudadanía El Pardo. Línea Madrid Fuencarral - El Pardo?",
-          "r": "Se encuentra en PLAZA EL PARDO 2, FUENCARRAL-EL PARDO. Horario: Laborables de lunes a viernes de 8:30 a 14 horas. Cerrado el mes de agosto, los sábados y los días 24 y 31 de diciembre.   Atención en otros idiomas y lenguaje de signos ver apartado 'Servicios'. Los sábados no hay abierto ningún registro.. Realiza trámites de: Altas, bajas y cambio de domicilio en Padrón, Censo electoral, Certificado de empadronamiento, Renovación o confirmación en Padrón de personas extranjeras. Ver mapa: https://www.google.com/maps/search/?api=1&query=40.51990216989406,-3.777365185426138"
+          "r": "Se encuentra en PLAZA EL PARDO 2, FUENCARRAL-EL PARDO. Horario: Laborables de lunes a viernes de 8:30 a 14 horas. Cerrado el mes de agosto, los sábados y los días 24 y 31 de diciembre.   Atención en otros idiomas y lenguaje de signos ver apartado 'Servicios'. Los sábados no hay abierto ningún registro.. Realiza trámites de: Altas, bajas y cambio de domicilio en Padrón, Censo electoral, Certificado de empadronamiento, Renovación o confirmación en Padrón de personas extranjeras. Ver mapa: https://www.google.com/maps/search/?api=1&query=40.51990216989406,-3.777365185426138 AVISO: En esta oficina la CITA PREVIA es OBLIGATORIA para todos los trámites de padrón."
         },
         {
           "p": "¿Dónde está la oficina Oficina Auxiliar de Atención a la Ciudadanía Las Tablas (OAC). Línea Madrid Fuencarral ? El Pardo.?",
-          "r": "Se encuentra en CALLE CAPISCOL 5, FUENCARRAL-EL PARDO. Horario: Lunes a viernes laborables de 8:30 a 14 horas. Cerrado el mes de agosto, los sábados y los días 24 y 31 de diciembre.   Los sábados no hay abierto ningún registro.. Realiza trámites de: Altas, bajas y cambio de domicilio en Padrón, Censo electoral, Certificado de empadronamiento, Renovación o confirmación en Padrón de personas extranjeras. Ver mapa: https://www.google.com/maps/search/?api=1&query=40.50820937518225,-3.675890061729932"
+          "r": "Se encuentra en CALLE CAPISCOL 5, FUENCARRAL-EL PARDO. Horario: Lunes a viernes laborables de 8:30 a 14 horas. Cerrado el mes de agosto, los sábados y los días 24 y 31 de diciembre.   Los sábados no hay abierto ningún registro.. Realiza trámites de: Altas, bajas y cambio de domicilio en Padrón, Censo electoral, Certificado de empadronamiento, Renovación o confirmación en Padrón de personas extranjeras. Ver mapa: https://www.google.com/maps/search/?api=1&query=40.50820937518225,-3.675890061729932 AVISO: En esta oficina la CITA PREVIA es OBLIGATORIA para todos los trámites de padrón."
         },
         {
           "p": "¿Dónde está la oficina Oficina de Atención a la Ciudadanía (OAC) Arganzuela. Línea Madrid?",
@@ -236,7 +257,7 @@
         },
         {
           "p": "¿Dónde está la oficina Oficina de Atención a la Ciudadanía.(OAC) Fuencarral - El Pardo. Línea Madrid?",
-          "r": "Se encuentra en AVENIDA MONFORTE DE LEMOS 40, FUENCARRAL-EL PARDO. Horario: Días laborables:  Lunes a  jueves, de 8:30 a 17 horas Viernes de 8:30 a 14 horas   Julio y agosto: lunes a viernes de 8:30 a 14 horas  Avisos: Cerrada los sábados y los días 24 y 31 de diciembre Los sábados no hay ningún registro abierto Atención en otros idiomas y lenguaje de signos ver apartado 'Servicios'. Realiza trámites de: Altas, bajas y cambio de domicilio en Padrón, Censo electoral, Certificado de empadronamiento, Renovación o confirmación en Padrón de personas extranjeras. Ver mapa: https://www.google.com/maps/search/?api=1&query=40.47847167535107,-3.709797895326373"
+          "r": "Se encuentra en AVENIDA MONFORTE DE LEMOS 40, FUENCARRAL-EL PARDO. Horario: Días laborables:  Lunes a  jueves, de 8:30 a 17 horas Viernes de 8:30 a 14 horas   Julio y agosto: lunes a viernes de 8:30 a 14 horas  Avisos: Cerrada los sábados y los días 24 y 31 de diciembre Los sábados no hay ningún registro abierto Atención en otros idiomas y lenguaje de signos ver apartado 'Servicios'. Realiza trámites de: Altas, bajas y cambio de domicilio en Padrón, Censo electoral, Certificado de empadronamiento, Renovación o confirmación en Padrón de personas extranjeras. Ver mapa: https://www.google.com/maps/search/?api=1&query=40.47847167535107,-3.709797895326373 AVISO: En esta oficina la CITA PREVIA es OBLIGATORIA para todos los trámites de padrón."
         },
         {
           "p": "¿Dónde está la oficina Oficina de Atención a la Ciudadanía.(OAC) San Blas - Canillejas. Línea Madrid?",
@@ -252,7 +273,7 @@
         },
         {
           "p": "¿Dónde está la oficina Oficina Auxiliar de Atención a la Ciudadanía Aravaca (OAC). Línea Madrid Moncloa - Aravaca?",
-          "r": "Se encuentra en CALLE ZARZA 20, MONCLOA-ARAVACA. Horario: Lunes a viernes laborables de 8:30 a 14 horas. Cerrado el mes de agosto, los sábados y los días 24 y 31 de diciembre.   Atención en otros idiomas y lenguaje de signos ver apartado 'Servicios'. Los sábados no hay abierto ningún registro.. Realiza trámites de: Altas, bajas y cambio de domicilio en Padrón, Censo electoral, Certificado de empadronamiento, Renovación o confirmación en Padrón de personas extranjeras. Ver mapa: https://www.google.com/maps/search/?api=1&query=40.4584363756688,-3.785855617667289"
+          "r": "Se encuentra en CALLE ZARZA 20, MONCLOA-ARAVACA. Horario: Lunes a viernes laborables de 8:30 a 14 horas. Cerrado el mes de agosto, los sábados y los días 24 y 31 de diciembre.   Atención en otros idiomas y lenguaje de signos ver apartado 'Servicios'. Los sábados no hay abierto ningún registro.. Realiza trámites de: Altas, bajas y cambio de domicilio en Padrón, Censo electoral, Certificado de empadronamiento, Renovación o confirmación en Padrón de personas extranjeras. Ver mapa: https://www.google.com/maps/search/?api=1&query=40.4584363756688,-3.785855617667289 AVISO: En esta oficina la CITA PREVIA es OBLIGATORIA para todos los trámites de padrón."
         },
         {
           "p": "¿Dónde está la oficina Oficina de Atención a la Ciudadanía. (OAC) Numancia. Línea Madrid Distrito Puente de Vallecas?",
@@ -288,7 +309,7 @@
         },
         {
           "p": "¿Dónde está la oficina Oficina de Atención a la Ciudadanía.(OAC) Moncloa - Aravaca. Línea Madrid?",
-          "r": "Se encuentra en PLAZA MONCLOA 1, MONCLOA-ARAVACA. Horario: Días laborables:  Lunes a  jueves, de 8:30 a 17 horas Viernes de 8:30 a 14 horas   Julio y agosto: lunes a viernes de 8:30 a 14 horas  Avisos: Cerrada los sábados y los días 24 y 31 de diciembre Los sábados no hay ningún registro abierto Atención en otros idiomas y lenguaje de signos ver apartado 'Servicios'. Realiza trámites de: Altas, bajas y cambio de domicilio en Padrón, Censo electoral, Certificado de empadronamiento, Renovación o confirmación en Padrón de personas extranjeras. Ver mapa: https://www.google.com/maps/search/?api=1&query=40.435209440386444,-3.718872513851534"
+          "r": "Se encuentra en PLAZA MONCLOA 1, MONCLOA-ARAVACA. Horario: Días laborables:  Lunes a  jueves, de 8:30 a 17 horas Viernes de 8:30 a 14 horas   Julio y agosto: lunes a viernes de 8:30 a 14 horas  Avisos: Cerrada los sábados y los días 24 y 31 de diciembre Los sábados no hay ningún registro abierto Atención en otros idiomas y lenguaje de signos ver apartado 'Servicios'. Realiza trámites de: Altas, bajas y cambio de domicilio en Padrón, Censo electoral, Certificado de empadronamiento, Renovación o confirmación en Padrón de personas extranjeras. Ver mapa: https://www.google.com/maps/search/?api=1&query=40.435209440386444,-3.718872513851534 AVISO: En esta oficina la CITA PREVIA es OBLIGATORIA para todos los trámites de padrón."
         },
         {
           "p": "¿Dónde está la oficina Oficina de Atención a la Ciudadanía.(OAC) Moratalaz. Línea Madrid?",
