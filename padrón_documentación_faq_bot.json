@@ -1,0 +1,47 @@
+{
+  "proceso": "Asistente de Documentación para el Padrón de Madrid",
+  "faq_documentacion": [
+    {
+      "pregunta": "¿Qué documentos de identidad necesito si soy español?",
+      "respuesta": "Para mayores de 14 años se requiere el DNI o pasaporte en vigor. Para menores de 14 años, es necesario el Libro de familia o certificado de nacimiento (y DNI/pasaporte si ya disponen de él).",
+      "categoria": "Identidad"
+    },
+    {
+      "pregunta": "¿Qué documentación de identidad deben presentar los ciudadanos extranjeros?",
+      "respuesta": "Depende de la nacionalidad: 1) Ciudadanos UE/Islandia/Liechtenstein/Noruega/Suiza: NIE junto a pasaporte o documento nacional de identidad original. 2) Otras nacionalidades: Permiso de residencia en vigor o, en su defecto, pasaporte en vigor.",
+      "categoria": "Identidad",
+      "nota": "Si el documento UE no tiene firma (ej. polaco o rumano), deberá aportar también pasaporte."
+    },
+    {
+      "pregunta": "¿Qué documentos se aceptan para acreditar la propiedad de la vivienda?",
+      "respuesta": "Se acepta la escritura de propiedad, copia simple, contrato de compraventa o una nota simple del Registro. Si alguien se empadronó después de la fecha del documento, deberá añadir una factura de suministros reciente (menos de 3 meses).",
+      "categoria": "Vivienda"
+    },
+    {
+      "pregunta": "¿Cuáles son los requisitos si vivo de alquiler?",
+      "respuesta": "Se requiere el contrato de alquiler original con una duración mínima de 6 meses y firmado por todas las partes. Debe incluir la referencia catastral.",
+      "categoria": "Vivienda",
+      "requisitos_adicionales": "Si el contrato está prorrogado o firmado electrónicamente, se debe aportar el último recibo de pago con los datos del domicilio y los nombres de las partes."
+    },
+    {
+      "pregunta": "¿Qué documentos necesito si no soy el titular ni el inquilino (autorización)?",
+      "respuesta": "El titular de la vivienda debe firmar el apartado de 'autorización de empadronamiento' en la hoja padronal. Además, debes aportar copia del DNI del titular y el documento que acredite que es el titular (contrato o escritura).",
+      "categoria": "Vivienda"
+    },
+    {
+      "pregunta": "¿Cómo se empadrona a un menor de edad?",
+      "respuesta": "Se requiere el Libro de familia o certificado de nacimiento. La hoja padronal debe estar firmada por ambos progenitores. Si solo firma uno, se requiere la autorización del otro o una resolución judicial de guardia y custodia en exclusiva.",
+      "categoria": "Menores"
+    },
+    {
+      "pregunta": "¿Qué necesito para tramitar en representación de otra persona?",
+      "respuesta": "Debes presentar tu documento de identidad original, una autorización firmada por el representado y una copia del DNI del representado (o el original si es extranjero).",
+      "categoria": "Representación"
+    },
+    {
+      "pregunta": "¿Qué es la hoja padronal y quién debe firmarla?",
+      "respuesta": "Es la solicitud oficial de empadronamiento. Debe estar firmada de forma manuscrita por todos los mayores de edad que se inscriben en el domicilio.",
+      "categoria": "General"
+    }
+  ]
+}

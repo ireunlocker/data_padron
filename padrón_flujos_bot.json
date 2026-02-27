@@ -1,0 +1,133 @@
+{
+  "document": "Asistente de Documentación para el Padrón",
+  "nodes": {
+    "start": {
+      "text": "¡Hola! Soy tu asistente para el empadronamiento. ¿En qué situación te encuentras?",
+      "options": [
+        { "text": "Soy el titular o inquilino de la vivienda", "next": "titular_vivienda" },
+        { "text": "No soy titular ni inquilino (me autorizan)", "next": "vivienda_autorizacion" },
+        { "text": "Soy menor de edad", "next": "identidad_menor" },
+        { "text": "Represento a otra persona", "next": "representacion_legal" }
+      ]
+    },
+    "identidad_selector": {
+      "text": "¿Cuál es tu nacionalidad?",
+      "options": [
+        { "text": "Española", "next": "identidad_espana" },
+        { "text": "Extranjera (UE/EEE/Suiza)", "next": "identidad_ue" },
+        { "text": "Extranjera (Otras nacionalidades)", "next": "identidad_extra_no_ue" },
+        { "text": "Solicitante de asilo", "next": "identidad_asilo" }
+      ]
+    },
+    "identidad_espana": {
+      "text": "Documentación de identidad (Españoles):",
+      "info": [
+        "Mayores de 14 años: DNI o pasaporte en vigor.",
+        "Menores de 14 años: Libro de familia o certificado de nacimiento (y DNI/pasaporte si lo tienen)."
+      ],
+      "next": "documentacion_vivienda_base"
+    },
+    "identidad_ue": {
+      "text": "Documentación de identidad (UE/Islandia/Liechtenstein/Noruega/Suiza):",
+      "info": [
+        "NIE (si se tiene) junto a pasaporte o documento nacional de identidad original y en vigor.",
+        "Si el documento no tiene firma (ej. polaco, rumano), traer pasaporte o acudir en persona."
+      ],
+      "next": "documentacion_vivienda_base"
+    },
+    "identidad_extra_no_ue": {
+      "text": "Documentación de identidad (Otras nacionalidades):",
+      "info": [
+        "Permiso de residencia en vigor.",
+        "Si no se tiene permiso, pasaporte en vigor."
+      ],
+      "next": "documentacion_vivienda_base"
+    },
+    "identidad_asilo": {
+      "text": "Documentación para solicitantes de asilo:",
+      "info": [
+        "Resguardo de presentación de solicitud de protección internacional (válido tras 1 mes de la solicitud).",
+        "Documentos acreditativos de la condición de solicitante en tramitación."
+      ],
+      "next": "documentacion_vivienda_base"
+    },
+    "titular_vivienda": {
+      "text": "¿Cómo acreditas el uso de la vivienda?",
+      "options": [
+        { "text": "Contrato de alquiler", "next": "vivienda_alquiler" },
+        { "text": "Propiedad (Escritura/Nota simple)", "next": "vivienda_propiedad" }
+      ]
+    },
+    "vivienda_alquiler": {
+      "text": "Requisitos del contrato de alquiler:",
+      "info": [
+        "Duración mínima de 6 meses.",
+        "Firmado por todas las partes.",
+        "Debe incluir referencia catastral (o aportar documento complementario).",
+        "Si está prorrogado o firmado electrónicamente: último recibo de pago (con nombres, periodo y domicilio)."
+      ],
+      "next": "identidad_selector"
+    },
+    "vivienda_propiedad": {
+      "text": "Documentos de propiedad:",
+      "info": [
+        "Escritura, copia simple, contrato compraventa o nota simple del Registro.",
+        "Si se ha empadronado alguien después de la fecha del documento: añadir factura de suministro (< 3 meses)."
+      ],
+      "next": "identidad_selector"
+    },
+    "vivienda_autorizacion": {
+      "text": "Si no eres titular ni inquilino:",
+      "info": [
+        "El titular debe firmar la 'autorización de empadronamiento' en la hoja padronal.",
+        "Debes aportar copia del DNI del titular y su documento de titularidad (contrato/escritura)."
+      ],
+      "next": "identidad_selector"
+    },
+    "representacion_legal": {
+      "text": "Si tramitas para otra persona:",
+      "info": [
+        "Documento de identidad original de quien realiza el trámite.",
+        "Autorización firmada por el representado.",
+        "Copia del DNI del representado (o original si es extranjero).",
+        "Si es representante legal: documento notarial original."
+      ],
+      "next": "start"
+    },
+    "menores_casos": {
+      "text": "Situaciones con menores de edad:",
+      "options": [
+        { "text": "Con ambos progenitores", "next": "menor_ambos" },
+        { "text": "Con uno solo de los progenitores", "next": "menor_uno" },
+        { "text": "Con otras personas", "next": "menor_otros" }
+      ]
+    },
+    "menor_ambos": {
+      "text": "Menor con ambos progenitores:",
+      "info": [
+        "Certificado de nacimiento o Libro de Familia.",
+        "Hoja padronal firmada por ambos."
+      ],
+      "next": "documentacion_vivienda_base"
+    },
+    "menor_uno": {
+      "text": "Menor con un solo progenitor:",
+      "info": [
+        "Certificado de nacimiento o Libro de Familia.",
+        "Autorización del otro progenitor o resolución judicial de guardia y custodia en exclusiva.",
+        "Si no hay consentimiento ni resolución: Declaración responsable justificando los motivos."
+      ],
+      "next": "documentacion_vivienda_base"
+    },
+    "documentacion_vivienda_base": {
+      "text": "Recuerda que también necesitarás:",
+      "info": [
+        "Solicitud de empadronamiento (hoja padronal) firmada por todos los mayores de edad.",
+        "Declaración responsable si hay personas empadronadas que ya no viven allí."
+      ],
+      "options": [
+        { "text": "Volver al inicio", "next": "start" }
+      ]
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "faq": [
+    {
+      "pregunta": "Alta de empadronamiento",
+      "respuesta": "Tiene la información sobre alta en Padrón en el siguiente enlace ⬇️:\n\nhttps://madrid.es/go/GFjn",
+      "acciones": [
+        {
+          "texto": "Concertar cita previa",
+          "url": "https://madrid.es/go/EDjL"
+        }
+      ]
+    },
+    {
+      "pregunta": "Certificado de empadronamiento",
+      "respuesta": "Puede descargar directamente su certificado si dispone de identificación electrónica o solicitarlo en línea, bien para descargarlo en la Sede electrónica, bien para recibirlo por correo postal https://madrid.es/go/NMqr.\n\nActualmente, no es necesario solicitar cita previa para este trámite, excepto para las oficinas de Aravaca, Valverde y El Pardo.",
+      "acciones": [
+        {
+          "texto": "Solicitar cita (Solo Aravaca, Valverde y El Pardo)",
+          "url": "https://madrid.es/go/EDjL"
+        }
+      ]
+    },
+    {
+      "pregunta": "Cambio de domicilio",
+      "respuesta": "Puede informarse sobre el cambio de domicilio de empadronamiento aquí ⬇️:\n\nhttps://madrid.es/go/GFjn",
+      "acciones": [
+        {
+          "texto": "Concertar cita previa",
+          "url": "https://madrid.es/go/EDjL"
+        }
+      ]
+    }
+  ]
+}

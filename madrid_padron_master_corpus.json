@@ -1,0 +1,324 @@
+{
+  "titulo": "Corpus Maestro: Padrón Municipal de Madrid",
+  "descripcion": "Consolidado de información técnica, procedimental y de ubicación para el trámite de empadronamiento.",
+  "version": "1.0",
+  "faq_corpus": [
+    {
+      "categoria": "Conceptos Básicos y Obligaciones",
+      "items": [
+        {
+          "p": "¿Quién está obligado a empadronarse en Madrid?",
+          "r": "Toda persona que viva en España está obligada a inscribirse en el Padrón del municipio donde reside habitualmente. Si reside en varios, debe inscribirse en el que pase más tiempo al año."
+        },
+        {
+          "p": "¿Qué es el 'Alta por cambio de residencia'?",
+          "r": "Es el trámite para personas que fijan su residencia habitual en Madrid procedentes de otro municipio de España o del extranjero."
+        },
+        {
+          "p": "¿Qué es el 'Alta por nacimiento'?",
+          "r": "Es la inscripción de recién nacidos. El Ayuntamiento suele hacerlo de oficio con datos del INE. Los padres deben verificarlo tras 3 meses o solicitarlo ellos mismos durante el primer año."
+        },
+        {
+          "p": "¿Qué es el 'Alta por omisión'?",
+          "r": "Se aplica a nacidos en Madrid no inscritos tras un año, personas que residen en Madrid pero no figuran en ningún padrón, o quienes desconocen su última inscripción."
+        },
+        {
+          "p": "¿Qué es el 'Cambio de domicilio'?",
+          "r": "Es el trámite para personas ya empadronadas en Madrid que se mudan a otra dirección dentro del mismo municipio."
+        }
+      ]
+    },
+    {
+      "categoria": "Canales y Procedimiento",
+      "items": [
+        {
+          "p": "¿Puedo realizar el trámite de empadronamiento en línea?",
+          "r": "Solo si NO estás actualmente empadronado en Madrid (vienes de fuera o eres nuevo residente). Requiere identificación electrónica."
+        },
+        {
+          "p": "¿Qué pasa si intento tramitar online y vivo dentro de Madrid?",
+          "r": "El sistema no lo permite. Los cambios de domicilio dentro del municipio de Madrid deben realizarse presencialmente con cita previa."
+        },
+        {
+          "p": "¿Cómo solicito cita previa para el padrón?",
+          "r": "En línea (www.madrid.es/citaprevia), por teléfono (010 o 914 800 010) o por chat en línea en la web oficial."
+        },
+        {
+          "p": "¿Si inicio el trámite online, puedo terminarlo en una oficina?",
+          "r": "No. Una vez iniciado el proceso en línea, debe resolverse por esa vía hasta el final. No puede completarse presencialmente."
+        },
+        {
+          "p": "¿Cuál es el plazo para aportar consentimientos en la solicitud online?",
+          "r": "Las personas que deban aportar consentimiento tienen 5 días naturales. Si no lo hacen, la solicitud será cancelada automáticamente."
+        }
+      ]
+    },
+    {
+      "categoria": "Documentación General",
+      "items": [
+        {
+          "p": "¿Qué documentos básicos se necesitan para el empadronamiento?",
+          "r": "Solicitud firmada (hoja padronal), declaración responsable si aplica, documentos de identidad en vigor y acreditación del uso de la vivienda."
+        },
+        {
+          "p": "¿Cómo debe ser la firma en la hoja padronal?",
+          "r": "Todas las personas mayores de edad deben firmar de forma manuscrita para trámites presenciales."
+        },
+        {
+          "p": "¿Qué identificación necesitan los ciudadanos españoles?",
+          "r": "Mayores de 14 años: DNI o pasaporte en vigor. Menores de 14: Libro de familia o certificado de nacimiento."
+        },
+        {
+          "p": "¿Qué identificación necesitan los ciudadanos extranjeros?",
+          "r": "UE/EEE/Suiza: NIE junto a pasaporte/DNI de su país. Otras nacionalidades: Permiso de residencia o pasaporte. Asilo: Resguardo de solicitud (llevando al menos 1 mes)."
+        }
+      ]
+    },
+    {
+      "categoria": "Acreditación de la Vivienda",
+      "items": [
+        {
+          "p": "¿Qué documentos sirven para acreditar el uso de la vivienda?",
+          "r": "Contrato de alquiler (mín. 6 meses con recibo reciente si aplica) o escritura de propiedad (junto a factura de suministros si hubo cambios recientes)."
+        },
+        {
+          "p": "¿Qué pasa si no tengo documentos de la vivienda ni autorización?",
+          "r": "El Ayuntamiento puede asesorar y valorar la situación, pudiendo emitir informes para facilitar el empadronamiento si procede."
+        },
+        {
+          "p": "¿Cómo empadronarse si vives en un hotel o residencia?",
+          "r": "La persona responsable del establecimiento debe rellenar la sección de autorización en la hoja padronal con su firma y sello."
+        }
+      ]
+    },
+    {
+      "categoria": "Menores y Representación",
+      "items": [
+        {
+          "p": "¿Quién debe autorizar el empadronamiento de un menor?",
+          "r": "Ambos progenitores que ostenten la patria potestad."
+        },
+        {
+          "p": "¿Qué documentos se necesitan para menores con ambos padres?",
+          "r": "Libro de familia o certificado de nacimiento y la hoja padronal firmada por ambos."
+        },
+        {
+          "p": "¿Qué ocurre si un menor se empadrona con solo uno de los padres?",
+          "r": "Se requiere la autorización del otro progenitor o resolución judicial de custodia exclusiva. En su defecto, una declaración responsable justificando los motivos."
+        },
+        {
+          "p": "¿Puede otra persona hacer el trámite por mí?",
+          "r": "Sí, mediante autorización firmada aportando documentos de identidad originales o copia (según el caso) de representante y representado."
+        }
+      ]
+    },
+    {
+      "categoria": "Plazos e Información Extra",
+      "items": [
+        {
+          "p": "¿El empadronamiento es inmediato?",
+          "r": "No. El Ayuntamiento revisa la documentación y emite una resolución tras las comprobaciones."
+        },
+        {
+          "p": "¿Cuánto tarda en resolverse una solicitud?",
+          "r": "El plazo máximo legal es de tres meses."
+        },
+        {
+          "p": "¿Qué recibo al finalizar el trámite?",
+          "r": "Presencial: Certificado en el acto. Online: Justificante de solicitud."
+        },
+        {
+          "p": "¿Deben renovar el padrón los extranjeros no comunitarios?",
+          "r": "Sí, los que no tienen residencia permanente deben renovar cada dos años."
+        }
+      ]
+    },
+    {
+      "categoria": "Canales y Procedimiento",
+      "items": [
+        {
+          "p": "¿Cómo puedo realizar el trámite de empadronamiento?",
+          "r": "Tienes dos opciones: trámite en línea (Internet) o presencialmente en una oficina de atención a la ciudadanía (OAC). La opción presencial requiere cita previa obligatoria. El trámite en línea solo está disponible para nuevos residentes en Madrid (que no estén empadronados actualmente)."
+        },
+        {
+          "p": "¿Quiénes pueden realizar el trámite en línea?",
+          "r": "Solo personas que NO estén empadronadas actualmente en la ciudad de Madrid: 1) Personas procedentes de otro municipio. 2) Personas que residen en Madrid pero no están empadronadas o han causado baja anteriormente. Requisitos: Identificación electrónica obligatoria (Certificado, Cl@ve)., Plazo de 5 días para aportar los consentimientos necesarios."
+        },
+        {
+          "p": "¿Cuándo debo hacer el trámite de forma presencial?",
+          "r": "Es obligatorio acudir presencialmente para cambios de domicilio DENTRO del municipio de Madrid, o cuando no se dispone de identificación electrónica para el trámite online."
+        },
+        {
+          "p": "¿Cómo solicito una cita previa?",
+          "r": "Puedes solicitar tu cita por tres canales principales: Canales: En línea: Web www.madrid.es/citaprevia (Categoría: Padrón, Trámite: Altas, Bajas y Cambio de domicilio)., Teléfono: 010 (desde Madrid ciudad) o 914 800 010., Chat: Pulsando el icono 'Chat on line Línea Madrid' en la web oficial."
+        }
+      ]
+    },
+    {
+      "categoria": "Documentación: Identidad",
+      "items": [
+        {
+          "p": "¿Qué documentos de identidad necesito si soy español?",
+          "r": "Para mayores de 14 años se requiere el DNI o pasaporte en vigor. Para menores de 14 años, es necesario el Libro de familia o certificado de nacimiento (y DNI/pasaporte si ya disponen de él)."
+        },
+        {
+          "p": "¿Qué documentación de identidad deben presentar los ciudadanos extranjeros?",
+          "r": "Depende de la nacionalidad: 1) Ciudadanos UE/Islandia/Liechtenstein/Noruega/Suiza: NIE junto a pasaporte o documento nacional de identidad original. 2) Otras nacionalidades: Permiso de residencia en vigor o, en su defecto, pasaporte en vigor. (Si el documento UE no tiene firma (ej. polaco o rumano), deberá aportar también pasaporte.)"
+        }
+      ]
+    },
+    {
+      "categoria": "Documentación: Vivienda",
+      "items": [
+        {
+          "p": "¿Qué documentos se aceptan para acreditar la propiedad de la vivienda?",
+          "r": "Se acepta la escritura de propiedad, copia simple, contrato de compraventa o una nota simple del Registro. Si alguien se empadronó después de la fecha del documento, deberá añadir una factura de suministros reciente (menos de 3 meses)."
+        },
+        {
+          "p": "¿Cuáles son los requisitos si vivo de alquiler?",
+          "r": "Se requiere el contrato de alquiler original con una duración mínima de 6 meses y firmado por todas las partes. Debe incluir la referencia catastral. Nota adicional: Si el contrato está prorrogado o firmado electrónicamente, se debe aportar el último recibo de pago con los datos del domicilio y los nombres de las partes."
+        },
+        {
+          "p": "¿Qué documentos necesito si no soy el titular ni el inquilino (autorización)?",
+          "r": "El titular de la vivienda debe firmar el apartado de 'autorización de empadronamiento' en la hoja padronal. Además, debes aportar copia del DNI del titular y el documento que acredite que es el titular (contrato o escritura)."
+        }
+      ]
+    },
+    {
+      "categoria": "Documentación: Menores",
+      "items": [
+        {
+          "p": "¿Cómo se empadrona a un menor de edad?",
+          "r": "Se requiere el Libro de familia o certificado de nacimiento. La hoja padronal debe estar firmada por ambos progenitores. Si solo firma uno, se requiere la autorización del otro o una resolución judicial de guardia y custodia en exclusiva."
+        }
+      ]
+    },
+    {
+      "categoria": "Documentación: Representación",
+      "items": [
+        {
+          "p": "¿Qué necesito para tramitar en representación de otra persona?",
+          "r": "Debes presentar tu documento de identidad original, una autorización firmada por el representado y una copia del DNI del representado (o el original si es extranjero)."
+        }
+      ]
+    },
+    {
+      "categoria": "Documentación: General",
+      "items": [
+        {
+          "p": "¿Qué es la hoja padronal y quién debe firmarla?",
+          "r": "Es la solicitud oficial de empadronamiento. Debe estar firmada de forma manuscrita por todos los mayores de edad que se inscriben en el domicilio."
+        }
+      ]
+    },
+    {
+      "categoria": "Oficinas y Localización",
+      "items": [
+        {
+          "p": "¿Dónde está la oficina Oficina Auxiliar de Atención a la Ciudadanía El Pardo. Línea Madrid Fuencarral - El Pardo?",
+          "r": "Se encuentra en PLAZA EL PARDO 2, FUENCARRAL-EL PARDO. Horario: Laborables de lunes a viernes de 8:30 a 14 horas. Cerrado el mes de agosto, los sábados y los días 24 y 31 de diciembre.   Atención en otros idiomas y lenguaje de signos ver apartado 'Servicios'. Los sábados no hay abierto ningún registro.. Realiza trámites de: Altas, bajas y cambio de domicilio en Padrón, Censo electoral, Certificado de empadronamiento, Renovación o confirmación en Padrón de personas extranjeras. Ver mapa: https://www.google.com/maps/search/?api=1&query=40.51990216989406,-3.777365185426138"
+        },
+        {
+          "p": "¿Dónde está la oficina Oficina Auxiliar de Atención a la Ciudadanía Las Tablas (OAC). Línea Madrid Fuencarral ? El Pardo.?",
+          "r": "Se encuentra en CALLE CAPISCOL 5, FUENCARRAL-EL PARDO. Horario: Lunes a viernes laborables de 8:30 a 14 horas. Cerrado el mes de agosto, los sábados y los días 24 y 31 de diciembre.   Los sábados no hay abierto ningún registro.. Realiza trámites de: Altas, bajas y cambio de domicilio en Padrón, Censo electoral, Certificado de empadronamiento, Renovación o confirmación en Padrón de personas extranjeras. Ver mapa: https://www.google.com/maps/search/?api=1&query=40.50820937518225,-3.675890061729932"
+        },
+        {
+          "p": "¿Dónde está la oficina Oficina de Atención a la Ciudadanía (OAC) Arganzuela. Línea Madrid?",
+          "r": "Se encuentra en PASEO CHOPERA 10, ARGANZUELA. Horario: Días laborables:  Lunes a jueves, de 8:30 a 17 horas. Viernes de 8:30 a 14 horas.   Julio y agosto: lunes a viernes de 8:30 a 14 horas.  Avisos: Cerrada los sábados y los días 24 y 31 de diciembre. Los sábados no hay ningún registro abierto. Atención en otros idiomas y lenguaje de signos ver apartado Servicios.. Realiza trámites de: Altas, bajas y cambio de domicilio en Padrón, Renovación o confirmación en Padrón de personas extranjeras. Ver mapa: https://www.google.com/maps/search/?api=1&query=40.39307289237465,-3.699005654074825"
+        },
+        {
+          "p": "¿Dónde está la oficina Oficina de Atención a la Ciudadanía (OAC) Barajas. Línea Madrid?",
+          "r": "Se encuentra en PLAZA MERCURIO 1, BARAJAS. Horario: Días laborables:  Lunes a jueves, de 8:30 a 17 horas. Viernes de 8:30 a 14 horas.   Julio y agosto: lunes a viernes de 8:30 a 14 horas.  Avisos: Cerrada los sábados y los días 24 y 31 de diciembre. Los sábados no hay ningún registro abierto. Atención en otros idiomas y lenguaje de signos ver apartado Servicios.. Realiza trámites de: Altas, bajas y cambio de domicilio en Padrón, Renovación o confirmación en Padrón de personas extranjeras. Ver mapa: https://www.google.com/maps/search/?api=1&query=40.474796331159844,-3.5777615123710085"
+        },
+        {
+          "p": "¿Dónde está la oficina Oficina de Atención a la Ciudadanía.(OAC) Chamberí. Línea Madrid?",
+          "r": "Se encuentra en CALLE PALAFOX 4, CHAMBERI. Horario: Días laborables: Lunes a  jueves, 8:30 a 17 horas Viernes 8:30 a 14 horas Julio y agosto: lunes a viernes 8:30 a 14 horas Avisos: Los días 24 y 31 de diciembre, cuando no coincida en sábado o domingo, esta oficina funcionará como Oficina Central de Atención a la Ciudadanía prestando solamente servicios de Registro, atendiendo únicamente con cita previa en horario de 9:00 a 14:00 horas Los sábados no hay ningún registro abierto.. Realiza trámites de: Altas, bajas y cambio de domicilio en Padrón, Renovación o confirmación en Padrón de personas extranjeras. Ver mapa: https://www.google.com/maps/search/?api=1&query=40.43056915283038,-3.7008727272441293"
+        },
+        {
+          "p": "¿Dónde está la oficina Oficina de Atención a la Ciudadanía.(OAC) Fuencarral - El Pardo. Línea Madrid?",
+          "r": "Se encuentra en AVENIDA MONFORTE DE LEMOS 40, FUENCARRAL-EL PARDO. Horario: Días laborables:  Lunes a  jueves, de 8:30 a 17 horas Viernes de 8:30 a 14 horas   Julio y agosto: lunes a viernes de 8:30 a 14 horas  Avisos: Cerrada los sábados y los días 24 y 31 de diciembre Los sábados no hay ningún registro abierto Atención en otros idiomas y lenguaje de signos ver apartado 'Servicios'. Realiza trámites de: Altas, bajas y cambio de domicilio en Padrón, Censo electoral, Certificado de empadronamiento, Renovación o confirmación en Padrón de personas extranjeras. Ver mapa: https://www.google.com/maps/search/?api=1&query=40.47847167535107,-3.709797895326373"
+        },
+        {
+          "p": "¿Dónde está la oficina Oficina de Atención a la Ciudadanía.(OAC) San Blas - Canillejas. Línea Madrid?",
+          "r": "Se encuentra en AVENIDA ARCENTALES 28, SAN BLAS-CANILLEJAS. Horario: Días laborables:  Lunes a  jueves, de 8:30 a 17 horas Viernes de 8:30 a 14 horas   Julio y agosto: lunes a viernes de 8:30 a 14 horas  Avisos: Cerrada los sábados y los días 24 y 31 de diciembre Los sábados no hay ningún registro abierto Atención en otros idiomas y lenguaje de signos ver apartado 'Servicios'. Ver mapa: https://www.google.com/maps/search/?api=1&query=40.43454472956917,-3.609623751691297"
+        },
+        {
+          "p": "¿Dónde está la oficina Oficina de Atención a la Ciudadanía.(OAC) Tetuán. Línea Madrid?",
+          "r": "Se encuentra en CALLE SIMANCAS 6, TETUAN. Horario: Días laborables:  Lunes a  jueves, de 8:30 a 17 horas Viernes de 8:30 a 14 horas   Julio y agosto: lunes a viernes de 8:30 a 14 horas  Avisos: Cerrada los sábados y los días 24 y 31 de diciembre Los sábados no hay ningún registro abierto Atención en otros idiomas y lenguaje de signos ver apartado 'Servicios'. Realiza trámites de: Altas, bajas y cambio de domicilio en Padrón, Renovación o confirmación en Padrón de personas extranjeras. Ver mapa: https://www.google.com/maps/search/?api=1&query=40.465712459445,-3.6940418104349586"
+        },
+        {
+          "p": "¿Dónde está la oficina Oficina de Atención a la Ciudadanía.(OAC) Usera. Línea Madrid?",
+          "r": "Se encuentra en AVENIDA RAFAELA YBARRA 41, USERA. Horario: Días laborables:  Lunes a  jueves, de 8:30 a 17 horas Viernes de 8:30 a 14 horas   Julio y agosto: lunes a viernes de 8:30 a 14 horas  Avisos: Cerrada los sábados y los días 24 y 31 de diciembre Los sábados no hay ningún registro abierto Atención en otros idiomas y lenguaje de signos ver apartado 'Servicios'. Realiza trámites de: Altas, bajas y cambio de domicilio en Padrón, Renovación o confirmación en Padrón de personas extranjeras. Ver mapa: https://www.google.com/maps/search/?api=1&query=40.3823867401053,-3.710861696949648"
+        },
+        {
+          "p": "¿Dónde está la oficina Oficina Auxiliar de Atención a la Ciudadanía Aravaca (OAC). Línea Madrid Moncloa - Aravaca?",
+          "r": "Se encuentra en CALLE ZARZA 20, MONCLOA-ARAVACA. Horario: Lunes a viernes laborables de 8:30 a 14 horas. Cerrado el mes de agosto, los sábados y los días 24 y 31 de diciembre.   Atención en otros idiomas y lenguaje de signos ver apartado 'Servicios'. Los sábados no hay abierto ningún registro.. Realiza trámites de: Altas, bajas y cambio de domicilio en Padrón, Censo electoral, Certificado de empadronamiento, Renovación o confirmación en Padrón de personas extranjeras. Ver mapa: https://www.google.com/maps/search/?api=1&query=40.4584363756688,-3.785855617667289"
+        },
+        {
+          "p": "¿Dónde está la oficina Oficina de Atención a la Ciudadanía. (OAC) Numancia. Línea Madrid Distrito Puente de Vallecas?",
+          "r": "Se encuentra en CALLE MONTE OLIVETI 14, PUENTE DE VALLECAS. Horario: Días laborables:  Lunes a  jueves, de 8:30 a 17 horas Viernes de 8:30 a 14 horas   Julio y agosto: lunes a viernes de 8:30 a 14 horas  Avisos: Cerrada los sábados y los días 24 y 31 de diciembre Los sábados no hay ningún registro abierto Atención en otros idiomas y lenguaje de signos ver apartado 'Servicios'. Ver mapa: https://www.google.com/maps/search/?api=1&query=40.39786858370023,-3.6670577526658787"
+        },
+        {
+          "p": "¿Dónde está la oficina Oficina de Atención a la Ciudadanía. (OAC) Sanchinarro. Línea Madrid Distrito Hortaleza?",
+          "r": "Se encuentra en CALLE PRINCESA DE EBOLI 29, HORTALEZA. Horario: Días laborables:  Lunes a  jueves, de 8:30 a 17 horas Viernes de 8:30 a 14 horas   Julio y agosto: lunes a viernes de 8:30 a 14 horas  Avisos: Cerrada los sábados y los días 24 y 31 de diciembre Los sábados no hay ningún registro abierto Atención en otros idiomas y lenguaje de signos ver apartado 'Servicios'. Realiza trámites de: Altas, bajas y cambio de domicilio en Padrón, Renovación o confirmación en Padrón de personas extranjeras. Ver mapa: https://www.google.com/maps/search/?api=1&query=40.49042200599307,-3.6553467891079854"
+        },
+        {
+          "p": "¿Dónde está la oficina Oficina de Atención a la Ciudadanía.(OAC) Carabanchel. Línea Madrid?",
+          "r": "Se encuentra en CALLE UTEBO 8, CARABANCHEL. Horario: Días laborables:  Lunes a jueves, de 8:30 a 17 horas. Viernes de 8:30 a 14 horas.   Julio y agosto: lunes a viernes de 8:30 a 14 horas.  Avisos: Cerrada los sábados y los días 24 y 31 de diciembre. Los sábados no hay ningún registro abierto. Atención en otros idiomas y lenguaje de signos ver apartado Servicios.. Realiza trámites de: Altas, bajas y cambio de domicilio en Padrón, Renovación o confirmación en Padrón de personas extranjeras. Ver mapa: https://www.google.com/maps/search/?api=1&query=40.386962506825974,-3.7386530020939652"
+        },
+        {
+          "p": "¿Dónde está la oficina Oficina de Atención a la Ciudadanía.(OAC) Centro. Línea Madrid?",
+          "r": "Se encuentra en CALLE VELAZQUEZ 52, SALAMANCA. Horario: Días laborables:  Lunes a  jueves, de 8:30 a 17 horas. Viernes de 8:30 a 14 horas.   Julio y agosto: lunes a viernes de 8:30 a 14 horas.  Avisos: Cerrada los sábados y los días 24 y 31 de diciembre. Los sábados no hay ningún registro abierto. Atención en otros idiomas y lenguaje de signos ver apartado Servicios.. Realiza trámites de: Altas, bajas y cambio de domicilio en Padrón, Renovación o confirmación en Padrón de personas extranjeras. Ver mapa: https://www.google.com/maps/search/?api=1&query=40.42883245981692,-3.6836346384155734"
+        },
+        {
+          "p": "¿Dónde está la oficina Oficina de Atención a la Ciudadanía.(OAC) Chamartín. Línea Madrid?",
+          "r": "Se encuentra en CALLE PRINCIPE DE VERGARA 142, CHAMARTIN. Horario: Días laborables:  Lunes a  jueves, de 8:30 a 17 horas. Viernes de 8:30 a 14 horas.   Julio y agosto: lunes a viernes de 8:30 a 14 horas. AVISOS: Cerrada los sábados y los días 24 y 31 de diciembre. Los sábados no hay ningún registro abierto. Atención en otros idiomas y lenguaje de signos ver apartado Servicios.. Realiza trámites de: Altas, bajas y cambio de domicilio en Padrón, Renovación o confirmación en Padrón de personas extranjeras. Ver mapa: https://www.google.com/maps/search/?api=1&query=40.444902405213526,-3.6780788363404526"
+        },
+        {
+          "p": "¿Dónde está la oficina Oficina de Atención a la Ciudadanía.(OAC) Ciudad Lineal. Línea Madrid?",
+          "r": "Se encuentra en CALLE HERMANOS GARCIA NOBLEJAS 16, CIUDAD LINEAL. Horario: Días laborables:  Lunes a  jueves, 8:30 a 17 horas. Viernes 8:30 a 14 horas.   Julio y agosto : lunes a viernes 8:30 a 14 horas.   Avisos: Cerrada los sábados y los días 24 y 31 de diciembre. Los sábados no hay ningún registro abierto. Atención en otros idiomas y lenguaje de signos ver apartado 'Servicios'.. Realiza trámites de: Altas, bajas y cambio de domicilio en Padrón, Renovación o confirmación en Padrón de personas extranjeras. Ver mapa: https://www.google.com/maps/search/?api=1&query=40.4359990280135,-3.6369662067437245"
+        },
+        {
+          "p": "¿Dónde está la oficina Oficina de Atención a la Ciudadanía.(OAC) Hortaleza. Línea Madrid?",
+          "r": "Se encuentra en CARRETERA CANILLAS 2, HORTALEZA. Horario: Días laborables:  Lunes a  jueves, de 8:30 a 17 horas Viernes de 8:30 a 14 horas   Julio y agosto: lunes a viernes de 8:30 a 14 horas  Avisos: Cerrada los sábados y los días 24 y 31 de diciembre Los sábados no hay ningún registro abierto Atención en otros idiomas y lenguaje de signos ver apartado 'Servicios'. Realiza trámites de: Altas, bajas y cambio de domicilio en Padrón, Renovación o confirmación en Padrón de personas extranjeras. Ver mapa: https://www.google.com/maps/search/?api=1&query=40.46300274233825,-3.6571450771648553"
+        },
+        {
+          "p": "¿Dónde está la oficina Oficina de Atención a la Ciudadanía.(OAC) Latina. Línea Madrid?",
+          "r": "Se encuentra en AVENIDA LAS AGUILAS 2, LATINA. Horario: Días laborables:  Lunes a  jueves, de 8:30 a 17 horas Viernes de 8:30 a 14 horas   Julio y agosto: lunes a viernes de 8:30 a 14 horas  Avisos: Cerrada los sábados y los días 24 y 31 de diciembre Los sábados no hay ningún registro abierto Atención en otros idiomas y lenguaje de signos ver apartado 'Servicios'. Realiza trámites de: Altas, bajas y cambio de domicilio en Padrón, Renovación o confirmación en Padrón de personas extranjeras. Ver mapa: https://www.google.com/maps/search/?api=1&query=40.38493929920335,-3.7641963952601154"
+        },
+        {
+          "p": "¿Dónde está la oficina Oficina de Atención a la Ciudadanía.(OAC) Moncloa - Aravaca. Línea Madrid?",
+          "r": "Se encuentra en PLAZA MONCLOA 1, MONCLOA-ARAVACA. Horario: Días laborables:  Lunes a  jueves, de 8:30 a 17 horas Viernes de 8:30 a 14 horas   Julio y agosto: lunes a viernes de 8:30 a 14 horas  Avisos: Cerrada los sábados y los días 24 y 31 de diciembre Los sábados no hay ningún registro abierto Atención en otros idiomas y lenguaje de signos ver apartado 'Servicios'. Realiza trámites de: Altas, bajas y cambio de domicilio en Padrón, Censo electoral, Certificado de empadronamiento, Renovación o confirmación en Padrón de personas extranjeras. Ver mapa: https://www.google.com/maps/search/?api=1&query=40.435209440386444,-3.718872513851534"
+        },
+        {
+          "p": "¿Dónde está la oficina Oficina de Atención a la Ciudadanía.(OAC) Moratalaz. Línea Madrid?",
+          "r": "Se encuentra en CALLE FUENTE CARRANTONA 8, MORATALAZ. Horario: Días laborables:  Lunes a  jueves, de 8:30 a 17 horas Viernes de 8:30 a 14 horas   Julio y agosto: lunes a viernes de 8:30 a 14 horas  Avisos: Cerrada los sábados y los días 24 y 31 de diciembre Los sábados no hay ningún registro abierto Atención en otros idiomas y lenguaje de signos ver apartado 'Servicios'. Realiza trámites de: Altas, bajas y cambio de domicilio en Padrón, Renovación o confirmación en Padrón de personas extranjeras. Ver mapa: https://www.google.com/maps/search/?api=1&query=40.39864180232909,-3.6370281973682417"
+        },
+        {
+          "p": "¿Dónde está la oficina Oficina de Atención a la Ciudadanía.(OAC) Puente de Vallecas. Línea Madrid?",
+          "r": "Se encuentra en AVENIDA ALBUFERA 42, PUENTE DE VALLECAS. Horario: Días laborables:   Lunes a  jueves, de 8:30 a 17 horas Viernes de 8:30 a 14 horas   Julio y agosto: lunes a viernes de 8:30 a 14 horas  Avisos: Cerrada los sábados y los días 24 y 31 de diciembre Los sábados no hay ningún registro abierto Atención en otros idiomas y lenguaje de signos ver apartado 'Servicios'. Ver mapa: https://www.google.com/maps/search/?api=1&query=40.39665462054556,-3.6663371141497607"
+        },
+        {
+          "p": "¿Dónde está la oficina Oficina de Atención a la Ciudadanía.(OAC) Retiro. Línea Madrid?",
+          "r": "Se encuentra en PLAZA DAOIZ Y VELARDE 1, RETIRO. Horario: Días laborables:  Lunes a  jueves, de 8:30 a 17 horas Viernes de 8:30 a 14 horas   Julio y agosto: lunes a viernes de 8:30 a 14 horas  Avisos: Cerrada los sábados y los días 24 y 31 de diciembre Los sábados no hay ningún registro abierto Atención en otros idiomas y lenguaje de signos ver apartado 'Servicios'. Realiza trámites de: Altas, bajas y cambio de domicilio en Padrón, Renovación o confirmación en Padrón de personas extranjeras. Ver mapa: https://www.google.com/maps/search/?api=1&query=40.40232608747992,-3.6774411939274305"
+        },
+        {
+          "p": "¿Dónde está la oficina Oficina de Atención a la Ciudadanía.(OAC) Salamanca. Línea Madrid?",
+          "r": "Se encuentra en CALLE POVEDILLA 4, SALAMANCA. Horario: Días laborables:  Lunes a  jueves, de 8:30 a 17 horas Viernes de 8:30 a 14 horas   Julio y agosto: lunes a viernes de 8:30 a 14 horas  Avisos: Cerrada los sábados y los días 24 y 31 de diciembre Los sábados no hay ningún registro abierto Atención en otros idiomas y lenguaje de signos ver apartado 'Servicios'. Realiza trámites de: Altas, bajas y cambio de domicilio en Padrón, Renovación o confirmación en Padrón de personas extranjeras. Ver mapa: https://www.google.com/maps/search/?api=1&query=40.42372416532733,-3.670464791301535"
+        },
+        {
+          "p": "¿Dónde está la oficina Oficina de Atención a la Ciudadanía.(OAC) Vicálvaro. Línea Madrid?",
+          "r": "Se encuentra en PLAZA DON ANTONIO DE ANDRES 18, VICALVARO. Horario: Días laborables:  Lunes a  jueves, de 8:30 a 17 horas Viernes de 8:30 a 14 horas   Julio y agosto: lunes a viernes de 8:30 a 14 horas  Avisos: Cerrada los sábados y los días 24 y 31 de diciembre Los sábados no hay ningún registro abierto Atención en otros idiomas y lenguaje de signos ver apartado 'Servicios'. Realiza trámites de: Altas, bajas y cambio de domicilio en Padrón, Renovación o confirmación en Padrón de personas extranjeras. Ver mapa: https://www.google.com/maps/search/?api=1&query=40.402274421503414,-3.605974909947404"
+        },
+        {
+          "p": "¿Dónde está la oficina Oficina de Atención a la Ciudadanía.(OAC) Villa de Vallecas. Línea Madrid?",
+          "r": "Se encuentra en PASEO FEDERICO GARCIA LORCA 12, VILLA DE VALLECAS. Horario: Días laborables:  Lunes a  jueves, de 8:30 a 17 horas Viernes de 8:30 a 14 horas   Julio y agosto: lunes a viernes de 8:30 a 14 horas  Avisos: Cerrada los sábados y los días 24 y 31 de diciembre Los sábados no hay ningún registro abierto Atención en otros idiomas y lenguaje de signos ver apartado 'Servicios'. Realiza trámites de: Altas, bajas y cambio de domicilio en Padrón, Renovación o confirmación en Padrón de personas extranjeras. Ver mapa: https://www.google.com/maps/search/?api=1&query=40.378906127214485,-3.6214421258656073"
+        },
+        {
+          "p": "¿Dónde está la oficina Oficina de Atención a la Ciudadanía.(OAC) Villaverde. Línea Madrid?",
+          "r": "Se encuentra en CALLE ARROYO BUENO 53, VILLAVERDE. Horario: Días laborables:  Lunes a  jueves, de 8:30 a 17 horas Viernes de 8:30 a 14 horas   Julio y agosto: lunes a viernes de 8:30 a 14 horas  Avisos: Cerrada los sábados y los días 24 y 31 de diciembre Los sábados no hay ningún registro abierto Atención en otros idiomas y lenguaje de signos ver apartado 'Servicios'. Realiza trámites de: Altas, bajas y cambio de domicilio en Padrón, Renovación o confirmación en Padrón de personas extranjeras. Ver mapa: https://www.google.com/maps/search/?api=1&query=40.349114262596046,-3.7111841220023103"
+        }
+      ]
+    }
+  ]
+}

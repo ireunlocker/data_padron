@@ -1,0 +1,32 @@
+{
+  "proceso": "Cómo realizar el trámite de empadronamiento en Madrid",
+  "faq_procedimiento": [
+    {
+      "pregunta": "¿Cómo puedo realizar el trámite de empadronamiento?",
+      "respuesta": "Tienes dos opciones: trámite en línea (Internet) o presencialmente en una oficina de atención a la ciudadanía (OAC). La opción presencial requiere cita previa obligatoria.",
+      "detalles": "El trámite en línea solo está disponible para nuevos residentes en Madrid (que no estén empadronados actualmente)."
+    },
+    {
+      "pregunta": "¿Quiénes pueden realizar el trámite en línea?",
+      "respuesta": "Solo personas que NO estén empadronadas actualmente en la ciudad de Madrid: 1) Personas procedentes de otro municipio. 2) Personas que residen en Madrid pero no están empadronadas o han causado baja anteriormente.",
+      "requisitos": [
+        "Identificación electrónica obligatoria (Certificado, Cl@ve).",
+        "Plazo de 5 días para aportar los consentimientos necesarios."
+      ]
+    },
+    {
+      "pregunta": "¿Cuándo debo hacer el trámite de forma presencial?",
+      "respuesta": "Es obligatorio acudir presencialmente para cambios de domicilio DENTRO del municipio de Madrid, o cuando no se dispone de identificación electrónica para el trámite online.",
+      "nota": "Una vez iniciado el trámite online, no se puede completar en una oficina presencial."
+    },
+    {
+      "pregunta": "¿Cómo solicito una cita previa?",
+      "respuesta": "Puedes solicitar tu cita por tres canales principales:",
+      "canales": [
+        { "nombre": "En línea", "instruccion": "Web www.madrid.es/citaprevia (Categoría: Padrón, Trámite: Altas, Bajas y Cambio de domicilio)." },
+        { "nombre": "Teléfono", "instruccion": "010 (desde Madrid ciudad) o 914 800 010." },
+        { "nombre": "Chat", "instruccion": "Pulsando el icono 'Chat on line Línea Madrid' en la web oficial." }
+      ]
+    }
+  ]
+}
